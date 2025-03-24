@@ -1,6 +1,6 @@
 ![GitHub release](https://img.shields.io/github/tag/dienerlab/2025_meduni_microbiome.svg)
 ![QIIME 2 version](https://img.shields.io/badge/Qiime%202%20version-2024.10-blue.svg)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fdienerlab.github.io%2F2025_meduni_microbiome)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fdienerlab.github.io%2F2025_meduni_microbiome)](https://dienerlab.github.io/2025_meduni_microbiome)
 
 
 
@@ -8,8 +8,7 @@
 
 ## Amplicon Sequencing Data Analysis
 
-Presentation: ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdienerlab.github.io%2F2025_meduni_microbiome)
-
+Presentation: [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdienerlab.github.io%2F2025_meduni_microbiome)](https://dienerlab.github.io/2025_meduni_microbiome)<br>
 Notebook: provided by Marija
 
 Press `?` to get a list of available live options such as slide overviews and speaker mode. Note that
