@@ -15,14 +15,10 @@ mutate = function(seq, rate=0.1, n=32) {
     return(apply(seqs, 1, paste, collapse=""))
 }
 
-seqs <- c(
-    "ACG",
-    "GTC"
-)
-
 args <- commandArgs(trailingOnly=TRUE)
 N <- as.integer(args[1])
 R <- as.double(args[2])
+seqs <- args[-(1:2)]
 
 sampled <- lapply(seqs, mutate, rate=R, n=N)
 names(sampled) <- seqs
