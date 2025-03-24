@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="seqs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0223784"
+     inkscape:cx="397.11325"
+     inkscape:cy="368.25896"
+     inkscape:window-width="1920"
+     inkscape:window-height="2084"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="73.746581"
+       y="347.5761"
+       width="62.865938"
+       height="47.149454"
+       id="rect3" />
+    <rect
+       x="148.70212"
+       y="336.09098"
+       width="183.15749"
+       height="55.007696"
+       id="rect2" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect2-6" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect3-0" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect1-6" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect4" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect5" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect6" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect7" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect8" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect9" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect10" />
+    <rect
+       x="148.70212"
+       y="336.09097"
+       width="183.15749"
+       height="55.007694"
+       id="rect11" />
+    <rect
+       x="73.746582"
+       y="347.57611"
+       width="62.865936"
+       height="47.149452"
+       id="rect12" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1"
+       width="31.734308"
+       height="27.678453"
+       x="13.749625"
+       y="18.067881"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-133.1754,-204.79262)"
+       id="text1"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.02228"
+         y="347.2518"
+         id="tspan4">ACG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,-13.9303,-107.89823)"
+       id="text2"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="98.219688"
+         y="358.73617"
+         id="tspan5">18</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect68"
+       width="31.734308"
+       height="27.678453"
+       x="77.308609"
+       y="18.067881"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-69.616418,-204.79262)"
+       id="text68"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.04929"
+         y="347.2518"
+         id="tspan6">CCG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,49.628682,-107.89823)"
+       id="text69"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan7">7</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect69"
+       width="31.734308"
+       height="27.678453"
+       x="109.13329"
+       y="18.067881"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-37.791743,-204.79262)"
+       id="text70"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.25927"
+         y="347.2518"
+         id="tspan8">ACA</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,81.453357,-107.89823)"
+       id="text71"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan9">6</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect71"
+       width="31.734308"
+       height="27.678453"
+       x="140.95796"
+       y="18.067881"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-5.96707,-204.79262)"
+       id="text72"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.77827"
+         y="347.2518"
+         id="tspan10">ACT</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,113.27803,-107.89823)"
+       id="text73"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan11">6</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect46"
+       width="31.734308"
+       height="27.678453"
+       x="13.749625"
+       y="45.746334"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect47"
+       width="31.734308"
+       height="27.678453"
+       x="45.574299"
+       y="45.746334"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect48"
+       width="31.734308"
+       height="27.678453"
+       x="77.398979"
+       y="45.746334"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect49"
+       width="31.734308"
+       height="27.678453"
+       x="109.22366"
+       y="45.746334"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect45"
+       width="31.734308"
+       height="27.678453"
+       x="141.04832"
+       y="45.746334"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect73"
+       width="31.734308"
+       height="27.678453"
+       x="45.574299"
+       y="18.067881"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-101.35072,-204.79262)"
+       id="text74"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.56328"
+         y="347.2518"
+         id="tspan12">AGG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,17.894375,-107.89823)"
+       id="text75"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3);fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan13">8</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect50"
+       width="31.734308"
+       height="27.678453"
+       x="13.749628"
+       y="73.424789"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-133.1754,-149.43571)"
+       id="text50"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.59029"
+         y="347.2518"
+         id="tspan14">GCG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,-13.930297,-52.541324)"
+       id="text51"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan15">6</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect59"
+       width="31.734308"
+       height="27.678453"
+       x="13.839996"
+       y="128.78171"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-133.08503,-94.07879)"
+       id="text59"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.55628"
+         y="347.2518"
+         id="tspan16">GTC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,-13.839929,2.8156)"
+       id="text60"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="98.219688"
+         y="358.73617"
+         id="tspan17">31</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect13"
+       width="31.734308"
+       height="27.678453"
+       x="13.930367"
+       y="184.22897"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-132.99466,-38.63152)"
+       id="text1-1"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="229.37828"
+         y="347.2518"
+         id="tspan18">TTC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,-13.749558,58.26287)"
+       id="text2-8"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan19">5</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect75"
+       width="31.734308"
+       height="27.678453"
+       x="77.308609"
+       y="73.424789"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-69.616415,-149.43571)"
+       id="text76"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.62228"
+         y="347.2518"
+         id="tspan20">TCG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,49.628685,-52.54132)"
+       id="text77"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan21">5</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect77"
+       width="31.734308"
+       height="27.678453"
+       x="77.398979"
+       y="128.78171"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-69.526047,-94.07879)"
+       id="text78"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.73028"
+         y="347.2518"
+         id="tspan22">GTA</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,49.719053,2.8156)"
+       id="text79"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan23">6</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect79"
+       width="31.734308"
+       height="27.678453"
+       x="77.489349"
+       y="184.22897"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-69.435676,-38.63152)"
+       id="text80"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.97428"
+         y="347.2518"
+         id="tspan24">GAC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,49.809424,58.26287)"
+       id="text81"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan25">4</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect81"
+       width="31.734308"
+       height="27.678453"
+       x="109.13328"
+       y="73.424789"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-37.791745,-149.43571)"
+       id="text82"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.39728"
+         y="347.2518"
+         id="tspan26">ACC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,81.453355,-52.54132)"
+       id="text83"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan27">4</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect83"
+       width="31.734308"
+       height="27.678453"
+       x="109.22365"
+       y="128.78171"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-37.701375,-94.07879)"
+       id="text84"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.50629"
+         y="347.2518"
+         id="tspan28">GGC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,81.543725,2.8156)"
+       id="text85"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan29">5</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect85"
+       width="31.734308"
+       height="27.678453"
+       x="109.31402"
+       y="184.22897"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-37.611005,-38.63152)"
+       id="text86"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.96529"
+         y="347.2518"
+         id="tspan30">GCC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,81.634095,58.26287)"
+       id="text87"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan31">4</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect87"
+       width="31.734308"
+       height="27.678453"
+       x="140.95796"
+       y="73.424789"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-5.96707,-149.43571)"
+       id="text88"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.90727"
+         y="347.2518"
+         id="tspan32">ATG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,113.27803,-52.54132)"
+       id="text89"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan33">4</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect89"
+       width="31.734308"
+       height="27.678453"
+       x="141.04832"
+       y="128.78171"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-5.8767,-94.07879)"
+       id="text90"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.82928"
+         y="347.2518"
+         id="tspan34">GTT</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,113.3684,2.8156)"
+       id="text91"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan35">5</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect91"
+       width="31.734308"
+       height="27.678453"
+       x="141.1387"
+       y="184.22897"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-5.78633,-38.63152)"
+       id="text92"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.99728"
+         y="347.2518"
+         id="tspan36">TCC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,113.45877,58.26287)"
+       id="text93"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan37">3</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect93"
+       width="31.734308"
+       height="27.678453"
+       x="45.574303"
+       y="73.424789"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-101.35072,-149.43571)"
+       id="text94"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="227.88427"
+         y="347.2518"
+         id="tspan38">AAG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,17.894378,-52.54132)"
+       id="text95"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan39">5</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect95"
+       width="31.734308"
+       height="27.678453"
+       x="45.664673"
+       y="128.78171"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-101.26035,-94.07879)"
+       id="text96"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="228.18128"
+         y="347.2518"
+         id="tspan40">GTG</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,17.984746,2.8156)"
+       id="text97"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan41">8</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect97"
+       width="31.734308"
+       height="27.678453"
+       x="45.755043"
+       y="184.22897"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.67685932,0,0,0.67685932,-101.16998,-38.63152)"
+       id="text98"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect2-6);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="229.28227"
+         y="347.2518"
+         id="tspan42">ATC</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.40944439,0,0,0.40944439,18.075117,58.26287)"
+       id="text99"
+       style="font-size:12px;line-height:1.25;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect3-0);display:inline;fill:#000000;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"><tspan
+         x="101.69969"
+         y="358.73617"
+         id="tspan43">4</tspan></text>
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect54"
+       width="31.734308"
+       height="27.678453"
+       x="13.749629"
+       y="101.10325"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect63"
+       width="31.734308"
+       height="27.678453"
+       x="13.839997"
+       y="156.46016"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect46-3"
+       width="31.734308"
+       height="27.678453"
+       x="13.930368"
+       y="211.90744"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect55"
+       width="31.734308"
+       height="27.678453"
+       x="45.574303"
+       y="101.10325"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect64"
+       width="31.734308"
+       height="27.678453"
+       x="45.664669"
+       y="156.46016"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect47-7"
+       width="31.734308"
+       height="27.678453"
+       x="45.755039"
+       y="211.90744"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect56"
+       width="31.734308"
+       height="27.678453"
+       x="77.398979"
+       y="101.10325"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect65"
+       width="31.734308"
+       height="27.678453"
+       x="77.489349"
+       y="156.46016"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect48-5"
+       width="31.734308"
+       height="27.678453"
+       x="77.57972"
+       y="211.90744"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect57"
+       width="31.734308"
+       height="27.678453"
+       x="109.22366"
+       y="101.10325"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect66"
+       width="31.734308"
+       height="27.678453"
+       x="109.31403"
+       y="156.46016"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect49-9"
+       width="31.734308"
+       height="27.678453"
+       x="109.4044"
+       y="211.90744"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect58"
+       width="31.734308"
+       height="27.678453"
+       x="141.04832"
+       y="101.10325"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect67"
+       width="31.734308"
+       height="27.678453"
+       x="141.1387"
+       y="156.46016"
+       rx="0.046173356"
+       ry="0.080868758" />
+    <rect
+       style="fill:none;stroke:#9e9e9e;stroke-width:0.0903666;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:6.2;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect45-2"
+       width="31.734308"
+       height="27.678453"
+       x="141.22906"
+       y="211.90744"
+       rx="0.046173356"
+       ry="0.080868758" />
+  </g>
+</svg>
