@@ -17,76 +17,6 @@ D&RI of Hygiene, Microbiology and Environmental Medicine
 
 ---
 
-## Guts, Camera, Action :movie_camera:
-
-
-📕 Let's switch to the notebook and get started
-
----
-
-<!-- .slide: data-background="var(--primary)" class="dark" -->
-
-# QIIME
-
-Pronounced like *chime* 🔔
-
-Created ~2010 during the Human Microbiome Project (2007 - 2016) under the leadership
-of Greg Caporaso and Rob Knight. Currently maintained by the Caporaso lab.
-
----
-
-## What is QIIME 2?
-
-> QIIME 2 is a powerful, extensible, and decentralized microbiome
-analysis package with a focus on data processing and analysis transparency.
-
-*Q*uantitative *i*nsights *i*nto *M*icrobial *E*cology
-
----
-
-## What can we do with QIIME 2?
-
-Essentially, QIIME is a set of *commands* to transform microbiome *data* into
-*intermediate outputs* and *visualizations*.
-
-<img src="assets/barplot.gif" width="100%">
-
-It's commonly used via the *command line*. We'll use it within the Colab Notebook
-
----
-
-## Where to find help?
-
-QIIME 2 comes with a lot of help, including a wide range of [tutorials](https://docs.qiime2.org/2023.7/tutorials/),
-[general documentation](https://docs.qiime2.org/2023.7/) and a
-[user forum](https://forum.qiime2.org/) where you can ask questions.
-
----
-
-## Artifacts, actions and visualizations
-
-QIIME 2 manages *artifacts*, which are basically intermediate data that feed
-into *actions* to either produce other artifacts or *visualizations*.
-
-<img src="assets/key.png" width="50%"><img src="assets/overview.png" width="50%">
-
-<div class="footnote">
-
-https://docs.qiime2.org/2023.7/tutorials/overview/
-
-</div>
-
----
-
-## Remember
-
-Artifacts often represent *intermediate steps*, but Visualizations are *end points*
-meant for human consumption :point_up:.
-
-Visualizations *cannot* be used as inputs for additional commands
-
----
-
 ## What is amplicon sequencing?
 
 <img src="assets/16S.png" width="80%">
@@ -114,9 +44,88 @@ The 16S gene is *universal* and contains interspersed conserved regions perfect 
 
 ---
 
+<!-- .slide: data-background="var(--primary)" class="dark" -->
+
+# QIIME
+
+Pronounced like *chime* 🔔
+
+Created ~2010 during the Human Microbiome Project (2007 - 2016) under the leadership
+of Greg Caporaso and Rob Knight. Currently maintained by the Caporaso lab.
+
+---
+
+## What is QIIME 2?
+
+> QIIME 2 is a powerful, extensible, and decentralized microbiome
+analysis package with a focus on data processing and analysis transparency.
+
+*Q*uantitative *i*nsights *i*nto *M*icrobial *E*cology
+
+<div class="footnote">
+
+Boylen, Rideout, Dillon, Bokulich et al., Nat Biotech 2020, https://doi.org/10.1038/s41587-019-0209-9
+
+</div>
+
+---
+
+## What can we do with QIIME 2?
+
+Essentially, QIIME is a set of *commands* to transform microbiome *data* into
+*intermediate outputs* and *visualizations*.
+
+<img src="assets/barplot.gif" width="100%">
+
+It's commonly used via the *command line*. We'll use it within Jupyter notebooks.
+
+---
+
+## Where to find help?
+
+<div style="display: flex; align-items: center; justify-content: space-evenly">
+
+<img src="assets/guide.png" width="30%">
+
+<div>
+
+QIIME 2 comes with a lot of help, including a wide range of [tutorials](https://docs.qiime2.org/2024.10/tutorials/),
+[general documentation](https://docs.qiime2.org/2024.10/) and a
+[user forum](https://forum.qiime2.org/) where you can ask questions.
+
+</div></div>
+
+---
+
+## Artifacts, actions and visualizations
+
+QIIME 2 manages *artifacts*, which are basically intermediate data that feed
+into *actions* to either produce other artifacts or *visualizations*.
+
+<img src="assets/key.png" width="50%"><img src="assets/overview.png" width="50%">
+
+<div class="footnote">
+
+https://docs.qiime2.org/2024.10/tutorials/overview/
+
+</div>
+
+---
+
+## Remember
+
+Artifacts often represent *intermediate steps*, but Visualizations are *end points*
+meant for human consumption :point_up:.
+
+Visualizations *cannot* be used as inputs for additional commands
+
+---
+
 ## Artifact Hunting
 
 To start, we'll import our raw data into QIIME as an *artifact*.
+
+<img src="assets/coding.gif" width="30%">
 
 :computer: Let's switch to the notebook and get started
 
@@ -129,6 +138,8 @@ To start, we'll import our raw data into QIIME as an *artifact*.
 <img src="assets/quals_dg.png" width="60%">
 
 <div>
+
+### Common steps
 
 1. trim low quality regions
 2. remove reads with low average quality
@@ -149,26 +160,43 @@ The primers used in this study were F515/R806. How long is the amplified fragmen
 
 ---
 
-## Denoising with DADA 2
+## Denoising amplicon sequencing data
 
-We just ran the DADA2 plugin for QIIME, which is doing 4 things:
+As we have seen sequencing will generate erroneous reads from real sequences, thus artificially
+increasing the diversity in the sample.
 
-1. filter and trim the reads
-2. find the most likely original sequences in the sample (ASVs)
-3. remove chimeras
-4. merge forward and reverse ASVs
-5. count the abundances
+The process of inferring the original amplicon sequences and their abundance is often called
+*denoising*.
+
+:computer: Let's get the denoising running before we dive in deeper.
 
 ---
 
-## Identifying amplicon sequence variants (ASVs)
+## Outdated: OTU picking/clustering
 
-<img src="assets/dada2.png" width="80%">
+<img src="assets/otu_clustering.png" width="60%">
+
+Clustering of individual reads by sequence identity, commonly 95% (genera) or 98-99% (species).
+
+What do you think were the limitations? Do OTUs over- or underestimate the number of taxa in the
+sample?
+
+---
+
+## Identifying amplicon sequence variants with DADA2 (ASVs)
+
+<img src="assets/dada2.png" width="70%">
 
 Expectation-Maximization (EM) algorithm to find amplicon sequence variants
 (ASVs) and the real error model at the same time.
 
 New ASVs are formed based on probability under a Poisson count model.
+
+<div class="footnote">
+
+Callahan et al., Nat Methods (2016). https://doi.org/10.1038/nmeth.3869
+
+</div>
 
 ----
 
@@ -197,62 +225,6 @@ might we be interested in?
 
 ---
 
-<!-- .slide: data-background="var(--primary)" class="dark" -->
-
-## Diversity metrics
-
-In microbial community analysis we are usually interested in two different families of diversity metrics,
-*alpha diversity* (ecological diversity within a sample) and *beta diversity* (ecological differences between samples).
-
----
-
-## Alpha diversity
-
-How diverse is a single sample?
-
-<img src="assets/alpha_diversity.png" width="50%">
-
-- *richness:* how many taxa do we observe (richness)?<br>
-  → #observed taxa
-- *evenness*: how evenly are abundances distributed across taxa?<br>
-  → Evenness index
-- *mixtures*: metrics that combine both richness and evenness<br>
-  → Shannon Index, Simpson's Index
-
----
-
-## Statistical tests for alpha diversity
-
-Alpha diversity will provide a single value for each sample.
-
-It can be treated as any other sample measurement and is suitable for classic
-univariate tests (t-test, Mann-Whitney U test).
-
----
-
-## Beta diversity
-
-How different are two or more samples/donors/sites from one another other?
-
-<img src="assets/beta_diversity.png" width="50%">
-
-- *unweighted:* how many taxa are *shared* between samples?<br>
-  → Jaccard index, unweighted UniFrac
-- *weighted:* do shared taxa have *similar abundances*?<br>
-  → Bray-Curtis distance, weighted UniFrac
-
----
-
-### UniFrac
-
-Do samples share *genetically similar* taxa?
-
-<img src="assets/unifrac.png" width="70%">
-
-Weighted UniFrac scales branches by abundance.
-
----
-
 ## How to build a phylogenetic tree?
 
 One of the basic things we might want to look at is how the sequences across
@@ -260,29 +232,6 @@ all samples are related to one another. That is, we are often interested in thei
 
 Phylogenetic trees are built from *multiple sequence alignments* and sequences are
 arranged by *sequence similarity* (branch length).
-
----
-
-## Principal Coordinate Analysis
-
-<img src="assets/pcoa.png" width="100%">
-
-
----
-
-## Statistical tests for beta diversity
-
-More complicated. Usually not normal and very heterogeneous. PERMANOVA can deal with that.
-
-<img src="assets/permanova.png" width="80%">
-
----
-
-<!-- .slide: data-background="var(--primary)" class="dark" -->
-
-## Run the diversity analyses
-
-:computer: Let's switch to the notebook and calculate the diversity metrics
 
 ---
 
@@ -333,6 +282,19 @@ often provides better *generalization* and faster results.
 Which taxa are associated with the disease state?
 
 <img src="assets/coding.gif" width="50%">
+
+---
+
+## Differential abundance analysis - beware the biases
+
+<img src="assets/biases.png" width="60%">
+
+<div class="footnote">
+
+McLaren et al., eLife 2019, https://doi.org/10.7554/eLife.46923<br>
+Peddada et al., Nat Commun 2020, https://doi.org/10.1038/s41467-020-17041-7
+
+</div>
 
 ---
 

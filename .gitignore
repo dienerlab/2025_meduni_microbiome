@@ -1,0 +1,16 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook metadata
+*.ipynb-meta
+
+# Ignore Jupyter Notebook hidden files
+*.ipynb_hidden
+
+# Ignore Jupyter Notebook temporary files
+*.ipynb_tmp
+
+# Ignore Jupyter Notebook output files
+*.ipynb_out
+
+notebooks/
